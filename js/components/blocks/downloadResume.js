@@ -30,15 +30,7 @@ export const DownloadResume = () => {
         iframe.contentDocument.write(`
             <!DOCTYPE html>
             <html lang="en">
-                <head>
-                    <link rel="stylesheet" href="../../../css/reset.css">
-                    <link rel="stylesheet" href="../../../css/style.css">
-                    <link rel="stylesheet" href="../../../css/button.css">
-                    <link rel="stylesheet" href="../../../css/input.css">
-                    <link rel="stylesheet" href="../../../css/variables.css">
-                    <link rel="stylesheet" href="../../../css/fonts.css">
-                    <link rel="stylesheet" href="../../../css/utilities.css">
-                </head>
+              <head></head>
               <body></body>
             </html>
         `);
