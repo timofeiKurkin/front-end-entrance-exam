@@ -1,0 +1,29 @@
+:root {
+    /* Colors */
+    --grey: #F0F0F0;
+    --white: #FFFFFF;
+    --dark: #313131;
+    --black: #000000;
+    --green: #24c56f;
+    --light-green: #EBF9F2;
+    --dark-green: #149063;
+    --yellow: #F6ED1E;
+    --red: #D92C54;
+
+    /* Font-size */
+    --fs-xs: clamp(5px, 0.3vw + 4px, 10px);
+    --fs-s: clamp(8px, 0.4vw + 6px, 14px);
+    --fs-m: clamp(10px, 0.4vw + 8px, 20px);
+    --fs-l: clamp(12px, 0.45vw + 8px, 19px);
+    --fs-xl: clamp(14px, 0.55vw + 9px, 24px);
+
+    --adaptive-padding: clamp(12px, 1.2vw + 5px, 20px);
+
+    /* Media */
+    /* phone375_639: '(min-width: 375px) and (max-width: 639px)'; */
+    /* pad640_991: '(min-width: 640px) and (max-width: 991px)'; */
+    /* pad992_1279: '(min-width: 992px) and (max-width: 1279px)'; */
+    /* desktop1280_1439: '(min-width: 1280px) and (max-width: 1439px)'; */
+    /* desktop1440_1919: '(min-width: 1440px) and (max-width: 1919px)'; */
+    /* desktop1920: '(min-width: 1920px)'; */
+}

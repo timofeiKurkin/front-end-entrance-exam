@@ -1,0 +1,46 @@
+{
+    "tools": [
+        {
+            "id": 0,
+            "title": "Skills",
+            "list": [
+                "HTML5",
+                "CSS (SCSS)",
+                "JavaScript (JS) / TypeScript (TS)",
+                "NextJS / React",
+                "Vue / NuxtJS",
+                "Axios",
+                "Redux (RTK)",
+                "Git",
+                "CI/CD",
+                "Pinia",
+                "Python",
+                "FastAPI",
+                "Docker",
+                "PostgreSQL",
+                "Redis",
+                "English B2"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Tools",
+            "list": [
+                "VS Code",
+                "Figma",
+                "WebStorm",
+                "Docker Desktop",
+                "Postman",
+                "PGAdmin"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Artificial intelligence",
+            "list": [
+                "ChatGPT",
+                "GigaCode"
+            ]
+        }
+    ]
+}

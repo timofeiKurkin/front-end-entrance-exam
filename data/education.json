@@ -1,0 +1,59 @@
+{
+    "education": [
+        {
+            "id": 0,
+            "duration": {
+                "start": 2020,
+                "end": 2024
+            },
+            "tags": [
+                "#education",
+                "#infosec",
+                "#hacking",
+                "#cybersecurity",
+                "#python",
+                "#computer-science"
+            ],
+            "place": "Siberian College",
+            "liked": true,
+            "specialization": "Infosec"
+        },
+        {
+            "id": 1,
+            "duration": {
+                "start": 2024,
+                "end": 2025
+            },
+            "tags": [
+                "#education",
+                "#infosec",
+                "#hacking",
+                "#cybersecurity",
+                "#python",
+                "#scapy",
+                "#linux",
+                "#computer-science"
+            ],
+            "place": "MEE - Online",
+            "liked": true,
+            "specialization": "Cybersecurity on Python"
+        },
+        {
+            "id": 2,
+            "duration": {
+                "end": 2022
+            },
+            "tags": [
+                "#js",
+                "#javascript",
+                "#algorithms",
+                "#data-structures",
+                "#html",
+                "#web"
+            ],
+            "place": "FreeCodeCamp",
+            "liked": false,
+            "specialization": "Javascript Algorithms and Data Structures"
+        }
+    ]
+}

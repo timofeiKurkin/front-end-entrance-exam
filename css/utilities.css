@@ -1,0 +1,57 @@
+/* Utilities */
+
+.flex {
+    display: flex;
+}
+
+.self-end {
+    align-self: end;
+}
+
+.grid {
+    display: grid;
+}
+
+.block {
+    display: block;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.rounded-xs {
+    border-radius: 4px;
+}
+
+.rounded-s {
+    border-radius: 6px;
+}
+
+.rounded-m {
+    border-radius: 10px;
+}
+
+.rounded-xl {
+    border-radius: 16px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.break-word {
+    word-break: break-word;
+}
+
+.text-wrap {
+    text-wrap: wrap;
+}

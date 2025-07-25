@@ -1,0 +1,23 @@
+{
+  "esversion": 11,
+  "browser": true,
+  "devel": true,
+  "module": true,
+  "strict": true,
+  "undef": true,
+  "unused": true,
+  "curly": true,
+  "eqeqeq": true,
+  "camelcase": true,
+  "latedef": "nofunc",
+  "noarg": true,
+  "nonew": true,
+  "nocomma": true,
+  "asi": false,
+  "globals": {
+    "define": false,
+    "require": false,
+    "process": false,
+    "globalThis": true
+  }
+}

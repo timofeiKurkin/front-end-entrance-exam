@@ -1,0 +1,16 @@
+{
+    "languages": [
+        {
+            "title": "English",
+            "level": 0.7
+        },
+        {
+            "title": "Russian",
+            "level": 1
+        },
+        {
+            "title": "Czech",
+            "level": 0.2
+        }
+    ]
+}

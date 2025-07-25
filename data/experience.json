@@ -1,0 +1,49 @@
+{
+    "experience": [
+        {
+            "id": 0,
+            "company": "GlariX",
+            "position": "Frontend & Backend Developer",
+            "duration": {
+                "start": "2024-07",
+                "end": "2025-07"
+            },
+            "points": [
+                "Developed a MVP platform for learning languages with a module system: courses. theory, dictionaries, interactive trainers and user progress.",
+                "The platform itself brings value to the client, not its content — it takes into account user errors and suggests ways to correct them, periodically offering to review forgotten material.",
+                "Response time for key pages is under 2 seconds even during high user activity.",
+                "Full application delivery cycle: containerization via Docker, setting up nginx and SSL certificate, deployment on a VDS server."
+            ]
+        },
+        {
+            "id": 1,
+            "company": "Building company",
+            "position": "Frontend & Backend Developer",
+            "duration": {
+                "start": "2023-02",
+                "end": "2024-05"
+            },
+            "points": [
+                "Developed a corporate website and updated the logo and overall design for a construction company, which helped modernize the brand positioning, attract 20 new employees, and one major client.",
+                "Solved typical technical issues for employees — from setting up accounts for new hires to resolving complex technical failures.",
+                "Together with the head admin, created a web application for efficient processing of employee technical requests. After launch, the time to resolve requests and employee downtime was reduced by half.",
+                "The application was also successfully used for outsourced support: it allowed clients to track the number of requests and identify bottlenecks in the IT infrastructure."
+            ]
+        },
+        {
+            "id": 2,
+            "company": "Only",
+            "position": "Intern Frontend Developer",
+            "duration": {
+                "start": "2022-05",
+                "end": "2022-09"
+            },
+            "points": [
+                "Worked with a team of 5 people to develop the client part of two commercial projects: a promo landing page and a corporate website.",
+                "Continuously collaborated with the design team to create animations and responsive layouts. Participated in code reviews and tested components using RTL and manual testing.",
+                "In both projects, contributed to the development of a preloader mechanism that improves user experience. The mechanism allows loading critical content (photos, videos, etc.) and importing heavy libraries with animations, shaders, and 3D models while the user sees a beautiful loading animation.",
+                "During the internship, improved understanding of team processes and worked using the Agile methodology."
+            ]
+        }
+    ]
+}
